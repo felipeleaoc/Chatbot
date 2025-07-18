@@ -1,0 +1,43 @@
+// --- ✅ NOVA CONFIGURAÇÃO DE ATENDENTES POR ASSUNTO (VERSÃO EXPANDIDA) ---
+const ATENDENTES_POR_TEMA = {
+    // =================================================================
+    // TEMAS PRINCIPAIS (Substitua os números pelos contatos corretos)
+    // =================================================================
+
+    // --- Carreira e Desenvolvimento ---
+    'Avaliação de Desempenho': '5562980000001@c.us',
+    'Progressão e Promoção': '5562980000002@c.us',
+    'Estágio Probatório': '5562980000003@c.us',
+    'Remoção e Lotação': '5562980000004@c.us',
+    'Capacitação e Treinamento': '5562980000005@c.us',
+
+    // --- Vida Funcional ---
+    'Férias': '5562980000006@c.us',
+    'Frequência e Ponto Eletrônico': '5562980000007@c.us',
+    'Licenças': '5562980000008@c.us', // Pode ser um contato geral para licenças
+    'Licença Médica e Perícia': '5562980000009@c.us',
+    'Alteração de Dados Cadastrais': '5562980000010@c.us',
+    'Teletrabalho': '5562980000011@c.us',
+
+    // --- Financeiro ---
+    'Folha de Pagamento e Contracheque': '5562980000012@c.us',
+    'Auxílios e Benefícios': '5562980000013@c.us', // Auxílio-saúde, alimentação, etc.
+    'Imposto de Renda e DIRF': '5562980000014@c.us',
+    'Consignados': '5562980000015@c.us',
+
+    // --- Desligamento e Aposentadoria ---
+    'Aposentadoria': '5562980000016@c.us',
+    'Exoneração e Vacância': '5562980000017@c.us',
+    'Averbação de Tempo de Serviço': '5562980000018@c.us',
+
+    // --- Outros Processos ---
+    'Recadastramento Anual': '5562980000019@c.us',
+    'Concurso Público e Nomeação': '5562980000020@c.us',
+    'Declarações e Certidões': '5562980000021@c.us',
+    'Processo Administrativo Disciplinar (PAD)': '5562980000022@c.us',
+
+    // =================================================================
+    // ATENDENTE GERAL / PADRÃO (ESSENCIAL)
+    // =================================================================
+    'default': '556297011349@c.us' // Atendente Geral / Suporte Nível 1
+};
